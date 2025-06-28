@@ -39,10 +39,10 @@ const Products = () => {
               </div>
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-black mb-4 leading-tight">
-              <span className="bg-gradient-to-r from-green-600 via-emerald-600 to-teal-600 bg-clip-text text-transparent animate-pulse">
+              <span className="bg-gradient-to-r from-green-600 via-emerald-600 to-teal-600 bg-clip-text text-transparent ">
                 ASAASE{" "}
               </span>
-              <span className="bg-gradient-to-r from-gray-800 via-gray-700 to-gray-900 bg-clip-text text-transparent animate-pulse">
+              <span className="bg-gradient-to-r from-gray-800 via-gray-700 to-gray-900 bg-clip-text text-transparent ">
                 PLUS
               </span>
             </h1>

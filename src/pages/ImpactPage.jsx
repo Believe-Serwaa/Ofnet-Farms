@@ -159,7 +159,7 @@ const ImpactPage = () => {
   const testimonials = [
     {
       name: "Akosua Mensah",
-      role: "Smallholder Farmer",
+      role: "Farmer",
       location: "Ashanti Region",
       quote: "My maize yield increased by 40% using Asaase Plus. My soil is healthier and my profits have doubled!",
       avatar: "👩🏾‍🌾",
@@ -167,7 +167,7 @@ const ImpactPage = () => {
     },
     {
       name: "Kofi Asante",
-      role: "Agricultural Coordinator",
+      role: "Agr",
       location: "Northern Region",
       quote: "This organic fertilizer has transformed farming in our community. It's affordable and truly works.",
       avatar: "👨🏾‍🌾",
