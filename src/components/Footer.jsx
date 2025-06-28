@@ -76,7 +76,7 @@ const Footer = () => {
             {/* Enhanced Social Links */}
             <div className="flex justify-center sm:justify-start space-x-4">
               <a 
-                href="https://facebook.com" 
+                href="https://www.facebook.com/profile.php?id=61563200616809&mibextid=ZbWKwL" 
                 className="group relative p-2 sm:p-3 bg-white/10 backdrop-blur-sm rounded-xl hover:bg-yellow-400 transition-all duration-300 transform hover:scale-110"
                 onMouseEnter={() => setIsHovered(true)}
                 onMouseLeave={() => setIsHovered(false)}

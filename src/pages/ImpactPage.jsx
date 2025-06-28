@@ -166,12 +166,13 @@ const ImpactPage = () => {
       rating: 5,
     },
     {
-      name: "Kofi Asante",
-      role: "Agr",
-      location: "Northern Region",
-      quote: "This organic fertilizer has transformed farming in our community. It's affordable and truly works.",
-      avatar: "👨🏾‍🌾",
-      rating: 5,
+     name: "Kofi Asante",
+role: "Farmer",
+location: "Northern Region",
+quote: "Using this organic fertilizer has significantly improved our yields. It's cost-effective and highly reliable.",
+avatar: "👨🏾‍🌾",
+rating: 5,
+
     },
   ]
 
