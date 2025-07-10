@@ -324,7 +324,7 @@ const ProductPage = () => {
                           <div className="text-xs text-gray-600">Micronutrients</div>
                         </div>
                       </div>
-                      <p className="text-xs text-gray-600 text-center">All in bioavailable forms</p>
+                      
                     </div>
                   </div>
                 </div>
