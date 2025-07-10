@@ -1,11 +1,11 @@
-import React from 'react'
-import Navbar from '../components/NavBar';
-import Footer from '../components/Footer';
-import HeroSection from './HeroSection';
-import AboutPage from './AboutPage';
-import Products from './Products';
-import ImpactPage from './ImpactPage';
-import ContactForm from './ContactForm';
+import React from "react";
+import Navbar from "../components/NavBar";
+import Footer from "../components/Footer";
+import HeroSection from "./HeroSection";
+import AboutPage from "./AboutPage";
+import Products from "./ProductPage";
+import ImpactPage from "./ImpactPage";
+import ContactForm from "./ContactForm";
 
 const HomePage = () => {
   return (
@@ -19,6 +19,6 @@ const HomePage = () => {
       <Footer />
     </main>
   );
-}
+};
 
 export default HomePage;
